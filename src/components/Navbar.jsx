@@ -41,11 +41,11 @@ const Navbar = () => {
             </div>
             <div className="flex items-center gap-4">
               <div className="sm:flex sm:gap-4">
-                <button className="bg-[#116A7B] text-white px-6 py-2 rounded-lg">
+                <button className="bg-[#116A7B] text-white px-8 py-2 rounded-full">
                   Login
                 </button>
                 <div className="hidden sm:flex">
-                <button className="border-2 text-[#116A7B] border-[#116A7B] px-6  py-2 rounded-lg">
+                <button className="border-2 text-[#116A7B] border-[#116A7B] px-8  py-2 rounded-full">
                   Register
                 </button>
                 </div>

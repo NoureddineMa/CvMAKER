@@ -1,5 +1,5 @@
 import React from 'react'
-import {Navbar , HeroSection , SecondSection}  from '../components'
+import {Navbar , HeroSection , SecondSection , ThirdSection}  from '../components'
 
 function LandingPage() {
   return (
@@ -7,6 +7,7 @@ function LandingPage() {
       <Navbar />
       <HeroSection />
       <SecondSection />
+      <ThirdSection />
     </div>
   )
 }
