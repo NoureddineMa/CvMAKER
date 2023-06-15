@@ -1,7 +1,7 @@
 import React from 'react'
-import Feedback from '../assets/feedback.png'
-import Feedback2 from '../assets/feedback2.png'
-import FeedBack3 from '../assets/feedback3.png'
+import Feedback from '../../assets/Images/feedback.png'
+import Feedback2 from '../../assets/Images/feedback2.png'
+import FeedBack3 from '../../assets/Images/feedback3.png'
 
 function SecondSection() {
   return (

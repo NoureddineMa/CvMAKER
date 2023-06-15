@@ -1,6 +1,6 @@
 import React from 'react'
 import TypoGraphy from './TypoGraphy'
-import TeamBuilding  from '../assets/TeamBuilding.png'
+import TeamBuilding from '../../assets/Images/TeamBuilding.png'
 
 
 const HeroSection = () => {

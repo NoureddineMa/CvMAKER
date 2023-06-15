@@ -1,6 +1,6 @@
 import React from 'react'
 import Card from './Card'
-import {Folder , Star , Vector } from './index'
+import {Folder , Star , Vector } from '../Landing/index'
 
 function ThirdSection() {
   return (
